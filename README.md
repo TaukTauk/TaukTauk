@@ -46,12 +46,12 @@ Currently working as a Full-Stack Developer at [DatTech](https://www.dattech.dev
 
 | Project | Description | Stack |
 |---|---|---|
-| [HRMS](https://github.com/TaukTauk/hrms) | HR management system with AI assistant | FastAPI, Vue 3, LangChain, pgvector |
-| [AI Gateway](https://github.com/TaukTauk/ai-gateway) | Standalone RAG service — pluggable into any app | FastAPI, pgvector, LangGraph, Ollama |
+| HRMS | HR management system with AI assistant | FastAPI, Vue 3, LangChain, pgvector |
+| AI Gateway | Standalone RAG service — pluggable into any app | FastAPI, pgvector, LangGraph, Ollama |
 | [VisPulse](https://vispulse.com) | SaaS financial management platform for SMEs | Node.js, Express, MySQL |
-| [Webserv](https://github.com/TaukTauk/webserv) | HTTP/1.1 web server from scratch in C++ | C++98, Epoll, BSD Sockets |
-| [Minishell](https://github.com/TaukTauk/minishell) | Bash-like Unix shell in C | C, POSIX, fork/exec |
-| [Inception](https://github.com/TaukTauk/inception) | Multi-service Docker infra from scratch | Docker, Nginx, MariaDB, PHP-FPM |
+| [Webserv](https://github.com/School42/webserv) | HTTP/1.1 web server from scratch in C++ | C++98, Epoll, BSD Sockets |
+| [Minishell](https://github.com/School42/minishell) | Bash-like Unix shell in C | C, POSIX, fork/exec |
+| [Inception](https://github.com/School42/inception) | Multi-service Docker infra from scratch | Docker, Nginx, MariaDB, PHP-FPM |
 
 ---
 
@@ -81,5 +81,5 @@ Currently working as a Full-Stack Developer at [DatTech](https://www.dattech.dev
 ## Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=vercel&logoColor=white)](https://tauktauklin.me)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/topp-richard-60a157222)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tauk-tauk-lin-60a157222)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:tauktauk51833@gmail.com)
