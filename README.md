@@ -46,6 +46,7 @@ Currently working as a Full-Stack Developer at [DatTech](https://www.dattech.dev
 
 | Project | Description | Stack |
 |---|---|---|
+| [dockerwiz](https://github.com/TaukTauk/dockerwiz) | Generating production-ready Docker setups | typer, textual (TUI), hatch, jinja2 |
 | HRMS | HR management system with AI assistant | FastAPI, Vue 3, LangChain, pgvector |
 | AI Gateway | Standalone RAG service — pluggable into any app | FastAPI, pgvector, LangGraph, Ollama |
 | [VisPulse](https://vispulse.com) | SaaS financial management platform for SMEs | Node.js, Express, MySQL |
