@@ -14,6 +14,7 @@ Currently working as a Full-Stack Developer at [DatTech](https://www.dattech.dev
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
 
 ### Frontend
 ![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vue.js&logoColor=white)
@@ -53,6 +54,7 @@ Currently working as a Full-Stack Developer at [DatTech](https://www.dattech.dev
 | Project | Description | Stack |
 |---|---|---|
 | [dockerwiz](https://github.com/TaukTauk/dockerwiz) | Generating production-ready Docker setups | typer, textual (TUI), hatch, jinja2 |
+| [WhitePaperAgents](https://github.com/TaukTauk/WhitePaperAgents) | Multi-agent pipeline that generates structured whitepapers from a research topic | LangGraph, Gemini, Tavily |
 | HRMS | HR management system with AI assistant | FastAPI, Vue 3, LangChain, pgvector |
 | AI Gateway | Standalone RAG service — pluggable into any app | FastAPI, pgvector, LangGraph, Ollama |
 | [VisPulse](https://vispulse.com) | SaaS financial management platform for SMEs | Node.js, Express, MySQL |
