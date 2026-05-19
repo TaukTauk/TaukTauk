@@ -66,9 +66,7 @@ Currently working as a Full-Stack Developer at [DatTech](https://www.dattech.dev
 
 ## Stats
 
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TaukTauk&theme=default&hide_border=true" height="150" />
-</p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=TaukTauk)](https://git.io/streak-stats)
 
 ---
 
