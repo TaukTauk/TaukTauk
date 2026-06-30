@@ -1,9 +1,9 @@
 # Hi, I'm Tauk Tauk Lin (Topp Richard)
 
-Full-Stack Engineer with a backend and systems focus, based in ASEAN.
-I build complete products end to end — backend APIs, frontend interfaces, AI pipelines, and production deployment.
+Security Engineer with a full-stack development background, based in ASEAN.
+I build complete products end to end — backend APIs, frontend interfaces, AI pipelines, and production deployment — and secure the infrastructure they run on.
 
-Currently working as a Full-Stack Developer at [DatTech](https://www.dattech.dev/).
+Currently working as a Security Engineer at ThitsaWorks, and building backend systems for the Yokogawa Vessel Information System.
 
 ---
 
@@ -15,6 +15,7 @@ Currently working as a Full-Stack Developer at [DatTech](https://www.dattech.dev
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-000000?style=flat&logo=express&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)
 
 ### Frontend
 ![Vue 3](https://img.shields.io/badge/Vue_3-4FC08D?style=flat&logo=vue.js&logoColor=white)
@@ -27,9 +28,20 @@ Currently working as a Full-Stack Developer at [DatTech](https://www.dattech.dev
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![pgvector](https://img.shields.io/badge/pgvector-4169E1?style=flat&logo=postgresql&logoColor=white)
 
-### AI
+### AI / Agentic Systems
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white)
+![Flowise](https://img.shields.io/badge/Flowise-FF6B6B?style=flat)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-4B0082?style=flat)
+![MCP](https://img.shields.io/badge/MCP-5436DA?style=flat)
+![AI Agents](https://img.shields.io/badge/AI_Agents-FF4500?style=flat)
+
+### Security
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white)
+![Vault](https://img.shields.io/badge/HashiCorp_Vault-000000?style=flat&logo=vault&logoColor=white)
+![Istio](https://img.shields.io/badge/Istio-466BB0?style=flat&logo=istio&logoColor=white)
+![Argo CD](https://img.shields.io/badge/Argo_CD-EF7B4D?style=flat&logo=argo&logoColor=white)
 
 ### Infrastructure
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
